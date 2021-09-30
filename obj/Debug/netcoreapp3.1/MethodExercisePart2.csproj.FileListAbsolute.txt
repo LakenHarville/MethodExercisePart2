@@ -1,0 +1,13 @@
+F:\repos\MethodExercisePart2\MethodExercisePart2\obj\Debug\netcoreapp3.1\MethodExercisePart2.csproj.AssemblyReference.cache
+F:\repos\MethodExercisePart2\MethodExercisePart2\obj\Debug\netcoreapp3.1\MethodExercisePart2.AssemblyInfoInputs.cache
+F:\repos\MethodExercisePart2\MethodExercisePart2\obj\Debug\netcoreapp3.1\MethodExercisePart2.AssemblyInfo.cs
+F:\repos\MethodExercisePart2\MethodExercisePart2\obj\Debug\netcoreapp3.1\MethodExercisePart2.csproj.CoreCompileInputs.cache
+F:\repos\MethodExercisePart2\MethodExercisePart2\bin\Debug\netcoreapp3.1\MethodExercisePart2.exe
+F:\repos\MethodExercisePart2\MethodExercisePart2\bin\Debug\netcoreapp3.1\MethodExercisePart2.deps.json
+F:\repos\MethodExercisePart2\MethodExercisePart2\bin\Debug\netcoreapp3.1\MethodExercisePart2.runtimeconfig.json
+F:\repos\MethodExercisePart2\MethodExercisePart2\bin\Debug\netcoreapp3.1\MethodExercisePart2.runtimeconfig.dev.json
+F:\repos\MethodExercisePart2\MethodExercisePart2\bin\Debug\netcoreapp3.1\MethodExercisePart2.dll
+F:\repos\MethodExercisePart2\MethodExercisePart2\bin\Debug\netcoreapp3.1\MethodExercisePart2.pdb
+F:\repos\MethodExercisePart2\MethodExercisePart2\obj\Debug\netcoreapp3.1\MethodExercisePart2.dll
+F:\repos\MethodExercisePart2\MethodExercisePart2\obj\Debug\netcoreapp3.1\MethodExercisePart2.pdb
+F:\repos\MethodExercisePart2\MethodExercisePart2\obj\Debug\netcoreapp3.1\MethodExercisePart2.genruntimeconfig.cache
